@@ -1,7 +1,6 @@
 ﻿using ECommerceAPI.Application.Repositories.CustomerRepository;
 using ECommerceAPI.Application.Repositories.OrderRepository;
 using ECommerceAPI.Application.Repositories.ProductRepository;
-using ECommerceAPI.Persistence.Concretes;
 using ECommerceAPI.Persistence.Contexts;
 using ECommerceAPI.Persistence.Repositories.CustomerRepository;
 using ECommerceAPI.Persistence.Repositories.OrderRepository;
